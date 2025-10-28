@@ -1,6 +1,9 @@
 # Taller de provisionamiento con Vagrant
 
 Este repositorio contiene instrucciones para crear un entorno multi-máquina con Vagrant orientado a prácticas de provisionamiento. Está pensado para una máquina "web" (Apache + PHP) y una máquina "db" (PostgreSQL).
+<img width="965" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/a137fbbd-449c-421d-980b-b9f0306ac261" />
+<img width="965" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/a12faaa8-0384-4a5b-959e-50549acf4ef8" />
+
 
 > Nota: Los scripts de provisioning (`provision-web.sh` y `provision-db.sh`) no están incluidos aquí. Puedes añadirlos y referenciarlos desde el `Vagrantfile` si deseas aprovisionamiento automático.
 
